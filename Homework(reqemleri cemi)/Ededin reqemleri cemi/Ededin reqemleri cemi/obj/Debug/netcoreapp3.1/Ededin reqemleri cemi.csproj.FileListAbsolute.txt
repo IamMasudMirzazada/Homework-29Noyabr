@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Homework(reqemleri cemi)\Ededin reqemleri cemi\Ededin reqemleri cemi\bin\Debug\netcoreapp3.1\Ededin reqemleri cemi.exe
+C:\Users\HP\Desktop\Homework(reqemleri cemi)\Ededin reqemleri cemi\Ededin reqemleri cemi\bin\Debug\netcoreapp3.1\Ededin reqemleri cemi.deps.json
+C:\Users\HP\Desktop\Homework(reqemleri cemi)\Ededin reqemleri cemi\Ededin reqemleri cemi\bin\Debug\netcoreapp3.1\Ededin reqemleri cemi.runtimeconfig.json
+C:\Users\HP\Desktop\Homework(reqemleri cemi)\Ededin reqemleri cemi\Ededin reqemleri cemi\bin\Debug\netcoreapp3.1\Ededin reqemleri cemi.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Homework(reqemleri cemi)\Ededin reqemleri cemi\Ededin reqemleri cemi\bin\Debug\netcoreapp3.1\Ededin reqemleri cemi.dll
+C:\Users\HP\Desktop\Homework(reqemleri cemi)\Ededin reqemleri cemi\Ededin reqemleri cemi\bin\Debug\netcoreapp3.1\Ededin reqemleri cemi.pdb
+C:\Users\HP\Desktop\Homework(reqemleri cemi)\Ededin reqemleri cemi\Ededin reqemleri cemi\obj\Debug\netcoreapp3.1\Ededin reqemleri cemi.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Homework(reqemleri cemi)\Ededin reqemleri cemi\Ededin reqemleri cemi\obj\Debug\netcoreapp3.1\Ededin reqemleri cemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Homework(reqemleri cemi)\Ededin reqemleri cemi\Ededin reqemleri cemi\obj\Debug\netcoreapp3.1\Ededin reqemleri cemi.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Homework(reqemleri cemi)\Ededin reqemleri cemi\Ededin reqemleri cemi\obj\Debug\netcoreapp3.1\Ededin reqemleri cemi.AssemblyInfo.cs
+C:\Users\HP\Desktop\Homework(reqemleri cemi)\Ededin reqemleri cemi\Ededin reqemleri cemi\obj\Debug\netcoreapp3.1\Ededin reqemleri cemi.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Homework(reqemleri cemi)\Ededin reqemleri cemi\Ededin reqemleri cemi\obj\Debug\netcoreapp3.1\Ededin reqemleri cemi.dll
+C:\Users\HP\Desktop\Homework(reqemleri cemi)\Ededin reqemleri cemi\Ededin reqemleri cemi\obj\Debug\netcoreapp3.1\Ededin reqemleri cemi.pdb
+C:\Users\HP\Desktop\Homework(reqemleri cemi)\Ededin reqemleri cemi\Ededin reqemleri cemi\obj\Debug\netcoreapp3.1\Ededin reqemleri cemi.genruntimeconfig.cache
